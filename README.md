@@ -1,2 +1,0 @@
-# FashionGram
-Group app techclt
